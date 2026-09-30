@@ -12,7 +12,7 @@
 
 <!-- Contador de visitas + Open to work -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alelopez2645&label=Visitas%20al%20perfil&color=00C2FF&style=for-the-badge" alt="Contador de visitas" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alelopez2645.alelopez2645&left_text=Visitas&color=00C2FF" alt="Visitas al perfil" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" />
 </p>
 
@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td width="35%" align="center">
-  <img src="foto.jpg" width="220" style="border-radius:50%;" alt="Oscar Alejandro López" />
+  <img src="foto.jpeg" width="220" style="border-radius:50%;" alt="Oscar Alejandro López" />
 </td>
 <td width="65%">
 
