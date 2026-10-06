@@ -156,7 +156,7 @@ Descomentá este bloque y reemplazá NOMBRE_DEL_REPO por tus repos públicos:
 <h3 align="center">📧 Correo electrónico</h3>
 
 <!-- TODO: reemplazá TU_EMAIL@gmail.com por tu correo real -->
-<a href="mailto:alelopezlua.com">
+<a href="mailto:alelopezlua@gmail.com">
   <img src="https://img.shields.io/badge/Env%C3%ADame_un_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo" />
 </a>
 
@@ -190,11 +190,6 @@ Descomentá este bloque y reemplazá NOMBRE_DEL_REPO por tus repos públicos:
 
 **Escaneá el QR o tocá el botón**
 
-<!--
-  TODO: reemplazá TU_CODIGO por el código de tu link de pago de Mercado Pago.
-  El link completo se ve así: https://mpago.la/TU_CODIGO
-  Tiene que ser el MISMO link en el botón y en el parámetro data= del QR (codificado: https%3A%2F%2Fmpago.la%2FTU_CODIGO)
--->
 <a href="https://mpago.la/1TA8mh4" target="_blank">
   <img src="https://img.shields.io/badge/Mercado%20Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Donar con Mercado Pago" />
 </a>
@@ -202,7 +197,7 @@ Descomentá este bloque y reemplazá NOMBRE_DEL_REPO por tus repos públicos:
 <br><br>
 
 <a href="https://mpago.la/1TA8mh4" target="_blank">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&margin=10&data=https%3A%2F%2Fmpago.la%2FTU_CODIGO&color=0D1117&bgcolor=FFFFFF" width="220" alt="QR Mercado Pago - Donar un cafecito" />
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&margin=10&data=https%3A%2F%2Fmpago.la%2F1TA8mh4&color=0D1117&bgcolor=FFFFFF" width="220" alt="QR Mercado Pago - Donar un cafecito" />
 </a>
 
 <br><br>
@@ -212,7 +207,7 @@ Descomentá este bloque y reemplazá NOMBRE_DEL_REPO por tus repos públicos:
 </td>
 <td width="45%" align="center" valign="middle">
 
-<!-- Subí cafecito.png a la raíz de este repo -->
+<!-- Subí cafecito.jpg a la raíz de este repo -->
 <img src="cafecito.jpg" width="280" alt="Invitame un cafecito" />
 
 </td>
