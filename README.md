@@ -135,14 +135,17 @@ Descomentá este bloque y reemplazá NOMBRE_DEL_REPO por tus repos públicos:
 
 ---
 
-## 🤝🏻 Contacto
+<h2 align="center">🤝🏻 Contacto</h2>
 
-<table>
+<table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center" valign="middle" width="320">
 
-### 📞 WhatsApp
-**+54 9 388 519 8447**
+<h3 align="center">📞 WhatsApp</h3>
+
+<b>+54 9 388 519 8447</b>
+
+<br><br>
 
 <a href="https://wa.me/5493885198447" target="_blank">
   <img src="https://img.shields.io/badge/Escr%C3%ADbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Escríbeme por WhatsApp" />
@@ -150,16 +153,18 @@ Descomentá este bloque y reemplazá NOMBRE_DEL_REPO por tus repos públicos:
 
 <br><br>
 
-### 📧 Email
+<h3 align="center">📧 Correo electrónico</h3>
+
 <!-- TODO: reemplazá TU_EMAIL@gmail.com por tu correo real -->
 <a href="mailto:TU_EMAIL@gmail.com">
   <img src="https://img.shields.io/badge/Env%C3%ADame_un_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo" />
 </a>
 
 </td>
-<td align="center" width="50%">
+<td align="center" valign="middle" width="320">
 
-### 📷 Escaneá el QR
+<h3 align="center">📷 Escaneá el QR</h3>
+
 <!-- QR oscuro sobre fondo blanco: los lectores de QR fallan con colores invertidos -->
 <a href="https://wa.me/5493885198447" target="_blank">
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&margin=10&data=https%3A%2F%2Fwa.me%2F5493885198447&color=0D1117&bgcolor=FFFFFF" alt="QR WhatsApp" />
