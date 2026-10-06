@@ -208,7 +208,7 @@ Descomentá este bloque y reemplazá NOMBRE_DEL_REPO por tus repos públicos:
 <td width="45%" align="center" valign="middle">
 
 <!-- Subí cafecito.png a la raíz de este repo -->
-<img src="cafecito.png" width="280" alt="Invitame un cafecito" />
+<img src="cafecito.jpg" width="280" alt="Invitame un cafecito" />
 
 </td>
 </tr>
