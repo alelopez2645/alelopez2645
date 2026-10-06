@@ -192,7 +192,7 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="cafecito.png" width="280" alt="Invitame un cafecito" />
+<img src="cafecito.jpg" width="280" alt="Invitame un cafecito" />
 
 </td>
 </tr>
