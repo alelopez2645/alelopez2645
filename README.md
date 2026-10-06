@@ -1,20 +1,20 @@
 <!-- Banner de encabezado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0D1117&height=200&section=header&text=Oscar%20Alejandro%20L%C3%B3pez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software%20%7C%20Full%20Stack&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0D1117&height=200&section=header&text=Oscar%20Alejandro%20L%C3%B3pez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software%20%7C%20Full%20Stack&descAlignY=58&descSize=18" alt="Oscar Alejandro López - Desarrollador de Software Full Stack" />
 </p>
 
 <!-- Animación de typing -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software;Apasionado+por+la+tecnolog%C3%ADa;Java+%7C+JavaScript+%7C+Python;React+%7C+Angular+%7C+Docker;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software+Full+Stack;Java+%7C+PHP+%7C+JavaScript+%7C+Python;Spring+Boot+%7C+Laravel+%7C+Node.js;React+%7C+Angular+%7C+Next.js;Docker+%7C+MySQL+%7C+PostgreSQL;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Badges de estado -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alelopez2645.alelopez2645&left_text=Visitas&color=00C2FF" alt="Visitas al perfil" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Disponible%20Freelance-0078D4?style=for-the-badge&logo=upwork&logoColor=white" alt="Freelance" />
+  <img src="https://komarev.com/ghpvc/?username=alelopez2645&label=Visitas&color=00C2FF&style=for-the-badge" alt="Visitas al perfil" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Disponible%20Freelance-0078D4?style=for-the-badge" alt="Disponible para Freelance" />
 </p>
 
 ---
@@ -23,10 +23,11 @@
 <table>
 <tr>
 <td width="35%" align="center">
-  <img src="foto.jpeg" width="220" style="border-radius:50%;" alt="Oscar Alejandro López" />
+  <!-- Subí foto.jpeg a la raíz de este repo (ideal: ya recortada en cuadrado/círculo) -->
+  <img src="foto.jpeg" width="220" alt="Oscar Alejandro López" />
   <br><br>
   <a href="https://wa.me/5493885198447" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </td>
 <td width="65%">
@@ -36,12 +37,12 @@
 - 💻 **Desarrollador de Software** enfocado en crear soluciones modernas, escalables y eficientes.
 - 🎓 Formación continua en **desarrollo web, backend y buenas prácticas de ingeniería**.
 - 🌱 En constante aprendizaje de nuevas tecnologías y tendencias del sector.
-- 🤖 Integro herramientas de **Inteligencia Artificial** (Claude, DeepSeek) en mi flujo de trabajo diario.
+- 🤖 Integro herramientas de **Inteligencia Artificial** (Claude, DeepSeek, ChatGPT) en mi flujo de trabajo diario.
 - 📊 Manejo **Excel Avanzado** para análisis, automatización y visualización de datos.
 - 💡 Me apasiona resolver problemas complejos con código limpio y bien estructurado.
 - 🤝 Abierto a **colaboraciones, proyectos freelance y oportunidades laborales**.
-- 💬 Pregúntame sobre **Java, JavaScript, React, Angular, Python o Docker**.
-- 📫 Puedes contactarme por **WhatsApp** o escanear el QR de abajo. ¡Respondo lo antes posible!
+- 💬 Preguntame sobre **Java, Spring Boot, PHP, Laravel, JavaScript, React, Angular, Python o Docker**.
+- 📫 Podés contactarme por **WhatsApp** o escanear el QR de abajo. ¡Respondo lo antes posible!
 
 </td>
 </tr>
@@ -54,50 +55,57 @@
 <div align="center">
 
 ### 👨‍💻 Lenguajes
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
 <img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
 
 ### 🎨 Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="angularjs logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="45" alt="Angular" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" />
+<!-- Next.js es negro: se muestra en blanco en modo oscuro -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js" />
+</picture>
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind CSS" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
 <img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
 
 ### ⚙️ Backend y Bases de Datos
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="Laravel" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
 
 ### 🧰 Herramientas y Plataformas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm" />
 <img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
 
 ### 🤖 Inteligencia Artificial
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT" />
 
 </div>
 
@@ -106,13 +114,24 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alelopez2645&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff" alt="Estadísticas de GitHub" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alelopez2645&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="Racha de contribuciones" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alelopez2645&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff" alt="Estadísticas de GitHub" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=alelopez2645&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="Racha de contribuciones" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alelopez2645&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff" alt="Lenguajes más usados" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alelopez2645&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff" alt="Lenguajes más usados" height="150" />
 </p>
+
+<!--
+## 📌 Proyectos destacados
+Descomentá este bloque y reemplazá NOMBRE_DEL_REPO por tus repos públicos:
+
+<p align="center">
+  <a href="https://github.com/alelopez2645/NOMBRE_DEL_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alelopez2645&repo=NOMBRE_DEL_REPO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff" alt="Repo destacado" />
+  </a>
+</p>
+-->
 
 ---
 
@@ -126,22 +145,24 @@
 **+54 9 388 519 8447**
 
 <a href="https://wa.me/5493885198447" target="_blank">
-  <img src="https://img.shields.io/badge/Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Escr%C3%ADbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Escríbeme por WhatsApp" />
 </a>
 
 <br><br>
 
 ### 📧 Email
-<a href="mailto:tu-email@ejemplo.com">
-  <img src="https://img.shields.io/badge/Envíame_un_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<!-- TODO: reemplazá TU_EMAIL@gmail.com por tu correo real -->
+<a href="mailto:TU_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Env%C3%ADame_un_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo" />
 </a>
 
 </td>
 <td align="center" width="50%">
 
-### 📷 Escanea el QR
+### 📷 Escaneá el QR
+<!-- QR oscuro sobre fondo blanco: los lectores de QR fallan con colores invertidos -->
 <a href="https://wa.me/5493885198447" target="_blank">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://wa.me/5493885198447&color=00C2FF&bgcolor=0D1117" alt="QR WhatsApp" />
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&margin=10&data=https%3A%2F%2Fwa.me%2F5493885198447&color=0D1117&bgcolor=FFFFFF" alt="QR WhatsApp" />
 </a>
 
 </td>
@@ -160,13 +181,24 @@
 <tr>
 <td width="55%" align="center" valign="middle">
 
-### 💳 Donar para un cafecito
+### 💳 Donar con Mercado Pago
 
-**Escaneá el QR con Mercado Pago**
+**Escaneá el QR o tocá el botón**
 
-<br>
+<!--
+  TODO: reemplazá TU_CODIGO por el código de tu link de pago de Mercado Pago.
+  El link completo se ve así: https://mpago.la/TU_CODIGO
+  Tiene que ser el MISMO link en el botón y en el parámetro data= del QR (codificado: https%3A%2F%2Fmpago.la%2FTU_CODIGO)
+-->
+<a href="https://mpago.la/TU_CODIGO" target="_blank">
+  <img src="https://img.shields.io/badge/Mercado%20Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Donar con Mercado Pago" />
+</a>
 
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=TU_LINK_DE_MERCADO_PAGO&color=00C2FF&bgcolor=0D1117" width="220" alt="QR Mercado Pago - Donar un cafecito" />
+<br><br>
+
+<a href="https://mpago.la/TU_CODIGO" target="_blank">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&margin=10&data=https%3A%2F%2Fmpago.la%2FTU_CODIGO&color=0D1117&bgcolor=FFFFFF" width="220" alt="QR Mercado Pago - Donar un cafecito" />
+</a>
 
 <br><br>
 
@@ -175,6 +207,7 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
+<!-- Subí cafecito.png a la raíz de este repo -->
 <img src="cafecito.png" width="280" alt="Invitame un cafecito" />
 
 </td>
@@ -185,7 +218,7 @@
 
 <!-- Footer animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2FF&height=120&section=footer" alt="" />
 </p>
 
 <p align="center">
