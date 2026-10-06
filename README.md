@@ -171,30 +171,28 @@
   <i>Si te gustó alguno de mis proyectos o mi trabajo te resultó útil, podés invitarme un cafecito. ¡Se agradece mucho! 💙</i>
 </p>
 
-<table>
+<table align="center">
 <tr>
-<td align="center" width="50%">
+<td width="55%" align="center" valign="middle">
 
 ### 💳 Donar para un cafecito
+
 **Escaneá el QR con Mercado Pago**
 
-<a href="TU_LINK_DE_MERCADO_PAGO" target="_blank">
-  <img src=qr-mercadopago.jpg width="200" alt="QR Mercado Pago - Donar un cafecito" />
-</a>
-
-</td>
-<td align="center" width="50%">
-
-### 🎁 ¿Preferís el link directo?
-**Hacé clic en el botón**
+<br>
 
 <a href="TU_LINK_DE_MERCADO_PAGO" target="_blank">
-  <img src="https://img.shields.io/badge/☕_Donar_un_cafecito-00A650?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Donar cafecito" />
+  <img src="qr-mercadopago.jpeg" width="220" alt="QR Mercado Pago - Donar un cafecito" />
 </a>
 
 <br><br>
 
-> 💡 Tu aporte me ayuda a seguir creando contenido y mejorando mis proyectos.
+💡 *Tu aporte me ayuda a seguir creando contenido y mejorando mis proyectos.*
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="cafecito.png" width="280" alt="Invitame un cafecito" />
 
 </td>
 </tr>
