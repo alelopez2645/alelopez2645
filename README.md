@@ -195,7 +195,7 @@ Descomentá este bloque y reemplazá NOMBRE_DEL_REPO por tus repos públicos:
   El link completo se ve así: https://mpago.la/TU_CODIGO
   Tiene que ser el MISMO link en el botón y en el parámetro data= del QR (codificado: https%3A%2F%2Fmpago.la%2FTU_CODIGO)
 -->
-<a href="https://mpago.la/TU_CODIGO" target="_blank">
+<a href="https://mpago.la/1TA8mh4" target="_blank">
   <img src="https://img.shields.io/badge/Mercado%20Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Donar con Mercado Pago" />
 </a>
 
