@@ -56,17 +56,10 @@
 ### 👨‍💻 Lenguajes
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
-<img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo" />
 
 ### 🎨 Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
@@ -78,8 +71,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo" />
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="45" alt="materialui logo" />
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
 <img width="15" />
@@ -105,9 +96,6 @@
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
 <img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" alt="godot logo" />
 
 ### 🤖 Inteligencia Artificial
 <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -181,9 +169,7 @@
 
 <br>
 
-<a href="TU_LINK_DE_MERCADO_PAGO" target="_blank">
-  <img src="qr-mercadopago.jpg" width="220" alt="QR Mercado Pago - Donar un cafecito" />
-</a>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=TU_LINK_DE_MERCADO_PAGO&color=00C2FF&bgcolor=0D1117" width="220" alt="QR Mercado Pago - Donar un cafecito" />
 
 <br><br>
 
@@ -192,7 +178,7 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="cafecito.jpg" width="280" alt="Invitame un cafecito" />
+<img src="cafecito.png" width="280" alt="Invitame un cafecito" />
 
 </td>
 </tr>
