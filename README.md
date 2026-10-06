@@ -156,7 +156,7 @@ Descomentá este bloque y reemplazá NOMBRE_DEL_REPO por tus repos públicos:
 <h3 align="center">📧 Correo electrónico</h3>
 
 <!-- TODO: reemplazá TU_EMAIL@gmail.com por tu correo real -->
-<a href="mailto:TU_EMAIL@gmail.com">
+<a href="mailto:alelopezlua.com">
   <img src="https://img.shields.io/badge/Env%C3%ADame_un_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo" />
 </a>
 
@@ -201,7 +201,7 @@ Descomentá este bloque y reemplazá NOMBRE_DEL_REPO por tus repos públicos:
 
 <br><br>
 
-<a href="https://mpago.la/TU_CODIGO" target="_blank">
+<a href="https://mpago.la/1TA8mh4" target="_blank">
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&margin=10&data=https%3A%2F%2Fmpago.la%2FTU_CODIGO&color=0D1117&bgcolor=FFFFFF" width="220" alt="QR Mercado Pago - Donar un cafecito" />
 </a>
 
