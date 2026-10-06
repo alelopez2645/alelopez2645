@@ -179,7 +179,7 @@
 **Escaneá el QR con Mercado Pago**
 
 <a href="TU_LINK_DE_MERCADO_PAGO" target="_blank">
-  <img src="TU_IMAGEN_QR_MERCADO_PAGO" width="200" alt="QR Mercado Pago - Donar un cafecito" />
+  <img src=qr-mercadopago.jpg width="200" alt="QR Mercado Pago - Donar un cafecito" />
 </a>
 
 </td>
