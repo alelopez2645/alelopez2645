@@ -182,7 +182,7 @@
 <br>
 
 <a href="TU_LINK_DE_MERCADO_PAGO" target="_blank">
-  <img src="qr-mercadopago.jpeg" width="220" alt="QR Mercado Pago - Donar un cafecito" />
+  <img src="qr-mercadopago.jpg" width="220" alt="QR Mercado Pago - Donar un cafecito" />
 </a>
 
 <br><br>
